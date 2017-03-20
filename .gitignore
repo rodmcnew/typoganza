@@ -1,0 +1,7 @@
+.idea
+node_modules
+data
+temp.sql
+npm-debug.log
+temp.json
+dist
